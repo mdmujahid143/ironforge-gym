@@ -1,4 +1,4 @@
-# 🏋️ GymLaunch — Gym Business Website
+# 🏋️ Ironforge — Gym Business Website
 
 A production-ready, mobile-responsive gym website built with 
 pure HTML, CSS & JavaScript. No frameworks. No backend.
